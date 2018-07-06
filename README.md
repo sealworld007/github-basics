@@ -1,6 +1,6 @@
 # Github Basics
 ===============
 
-learning remote repo
+learning remote repository
 
 [i am learning this on lynda.com](http://www.grab.com.ng)
